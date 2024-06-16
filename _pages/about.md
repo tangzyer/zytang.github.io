@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Operations Management at Naveen Jindal School of Management, the University of Texas at Dallas. I am broadly interested in topics related to stochastic systems, sequential decision-making, online learning and statistical learning.   
-
+I am a first-year PhD student in Operations Management at Naveen Jindal School of Management, the University of Texas at Dallas. I am broadly interested in topics related to stochastic systems, sequential decision-making and statistical learning.   
 
 
 
 Working Paper
 ======
-**Learning to Dispatch Jobs in Queueing Systems with Unknown, Possibly
-Non-stationary Service Rates**  
-Yifei Huang, Zhiyuan Tang, Weina Wang (alphabetical order)  
-Submitted to AAAI 2024.
+**Online Matching in Two-Sided Markets** (Manuscript under preparation)
+Zhiyuan Tang, Wanning Chen*, Kan Xu*
+Accepted for presentation at M&SOM 2024, Minneapolis.
 
+*Equal Contribution
 
 
